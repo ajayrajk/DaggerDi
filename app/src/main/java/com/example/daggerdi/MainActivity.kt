@@ -34,6 +34,7 @@ class MainActivity : AppCompatActivity() {
             .build()
          //component.inject(this)
         userRegistrationComponent.inject(this)
+
 //        val registrationService =component.getUserRegistrationService()
 //
 //        val emailService=component.getEmailService()
